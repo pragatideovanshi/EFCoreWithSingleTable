@@ -1,0 +1,24 @@
+﻿# Visual Studio folders
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+
+# Rider IDE
+.idea/
+
+# Local settings
+appsettings.Development.json
+*.local
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Other unnecessary files
+*.log
